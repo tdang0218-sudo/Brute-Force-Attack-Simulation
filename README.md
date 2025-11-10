@@ -14,3 +14,12 @@ This project simulates a brute-force attack from a Kali Linux VM against a Windo
 3. Utilized Hydra on Kali Linux VM to simulate brute-force attack.
 4. Gathered necessary screenshots for project.
 5. Created a SOC playbook on identification and containment of brute-force attacks.
+
+## Tools Used
+- Personal computer
+- VMWare: Kali Linux VM and Windows 10 VM
+- Hydra on Kali Linux VM
+- Splunk Enterprise
+
+## Notes
+This project is to simulate a brute-force attack to practice what a SOC analyst would do once a brute-force is identified and the process of how to deal with one.
